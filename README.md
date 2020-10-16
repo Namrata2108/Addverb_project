@@ -26,6 +26,8 @@ On the backend
 
 Head over to http://35.247.176.55:8080/guacamole/#
 
+![LOGIN PANEL](https://github.com/Namrata2108/Addverb_project/blob/main/Screenshot%202020-10-16%20151142.png)
+
 enter Username = "addverb"
 enter password = "addverb"
 
