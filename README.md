@@ -1,10 +1,6 @@
 # Sandboxed programming environment
 > Addverb Project Walkthorugh
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This Project is made on Google Cloud Platform and is aimed to provide low latency and high performability sandboxed environment where students can do their assignments or take tests.
 On the backend 
 
