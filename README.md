@@ -5,7 +5,7 @@
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-This Project is made on Google Cloud Platform and is aimed to provide low latency and high preformability sandboxed environment where students can do thier assignments or take tests.
+This Project is made on Google Cloud Platform and is aimed to provide low latency and high performability sandboxed environment where students can do their assignments or take tests.
 On the backend 
 
 ![](header.png)
@@ -15,7 +15,7 @@ On the backend
 
 1) Create a Google Cloud Platform Account
 2) Set up a Compute Instance or a virtual machine
-3) Make changes to the firewall to allow http and https trafic so that we can use the machine for internet access.
+3) Make changes to the firewall to allow http and https traffic so that we can use the machine for internet access.
 
 
 
@@ -41,7 +41,7 @@ You can easily do your assignments and make use of this
 
 
 Instruction to get guacamole up and running:
-- Create a cloud hosted machine on the platform of your choice. eg AWS, Google Cloud, azure etc
+- Create a cloud hosted machine on the platform of your choice. eg AWS, Google Cloud, Azure, etc
 - SSH to it and run the following commands to install RDP:
 
 ```sudo apt-get update
