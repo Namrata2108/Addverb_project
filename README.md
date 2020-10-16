@@ -22,7 +22,7 @@ On the backend
 
 ## Usage example
 
-Please follow along this simple guide to use the software:-
+>Please follow along this simple guide to use the software:-
 
 Head over to http://35.247.176.55:8080/guacamole/#
 
